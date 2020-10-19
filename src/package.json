@@ -1,0 +1,26 @@
+{
+  "title": "Material demo",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/guides/composition/Composition.tsx",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "4.9.1",
+    "@material-ui/lab": "4.0.0-alpha.47",
+    "@types/lodash": "4.14.149",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "assets": "3.0.1",
+    "lodash": "4.17.15",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "keywords": [],
+  "name": "airboxr-developer-intern-assignment-1"
+}
